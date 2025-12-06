@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Sajid
 
-<!--
-**CodeWithSajidDev/CodeWithSajidDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I'm interested in full-stack web development.
 
-Here are some ideas to get you started:
+🌱 I'm currently working on JavaScript , Bootstrap, PHP and Wordpress .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I'm looking to collaborate on enterprise-level projects.
+
+📫 How to reach me:
+
+- **LinkedIn:** in/m-sajid-abbasi-96b93536b
+
+- **Instagram:** sajidprogrammer77
+
+- **Gmail:** sajidprogrammer77@gmail.com
+
+- **Upwork:** https://www.upwork.com/freelancers/~013e31b497ffbb787d
+
+- **Fiverr:** https://www.fiverr.com/s/qDBKZ5V

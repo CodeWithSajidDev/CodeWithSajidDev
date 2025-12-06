@@ -8,9 +8,9 @@
 
 📫 How to reach me:
 
-- **LinkedIn:** in/m-sajid-abbasi-96b93536b
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-sajid-936093387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-- **Instagram:** sajidprogrammer77
+- **Instagram:** https://www.instagram.com/sajidprogrammer77/
 
 - **Gmail:** sajidprogrammer77@gmail.com
 

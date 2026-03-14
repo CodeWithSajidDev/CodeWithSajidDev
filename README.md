@@ -16,6 +16,6 @@
 
 - **Upwork:** https://www.upwork.com/freelancers/~013e31b497ffbb787d
 
-- **Fiverr:** https://www.fiverr.com/s/qDBKZ5V
+- **Fiverr:** https://www.fiverr.com/s/yvPeD7G
 
 - **WhatsApp:** +923134482690

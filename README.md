@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Muhammad Sajid
 
-### 💻 Full-Stack Web Developer
+### 💻 Full-Stack Web Developer | 🤖 AI/ML Enthusiast
 
 🚀 Passionate about building modern, scalable, and user-friendly web applications.
 🌱 Currently working with **JavaScript, Bootstrap, PHP, and WordPress**
+🤖 Actively learning **AI/ML Full-Stack Development** to build intelligent applications
 🤝 Open to collaborating on **enterprise-level and real-world projects**
 
 ---
@@ -11,7 +12,9 @@
 ## 🧑‍💻 About Me
 
 * 🔭 Working on real-world web development projects
-* 📈 Continuously learning and improving my development skills
+* 💡 Strong interest in **AI-powered solutions & automation**
+* 📈 Continuously learning modern technologies including AI/ML
+* 🎯 Focused on clean UI/UX and performance optimization
 
 ---
 
@@ -20,6 +23,7 @@
 * 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap
 * ⚙️ Backend: PHP, MySQL
 * 🧩 CMS: WordPress (Homey, Houzez)
+* 🤖 Learning: AI/ML, APIs, Automation Tools
 
 ---
 
@@ -37,4 +41,4 @@
 
 ## ⚡ Fun Fact
 
-I love turning ideas into real-world web solutions 
+I love combining **Web Development + AI** to create smart and impactful solutions 

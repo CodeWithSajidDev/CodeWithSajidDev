@@ -12,7 +12,7 @@
 
 - **Instagram:** https://www.instagram.com/sajidprogrammer77/
 
-- **Gmail:** sajidprogrammer77@gmail.com
+- **Gmail:** sajid@codebysajid.com
   
 - **Website:** https://codebysajid.com/
 
